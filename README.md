@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Scott Moore, AI security engineer" width="100%"/>
 </p>
 
-I'm an AI security engineer in Austin. I build tools that watch what AI agents do with the access they're given. Find me on [LinkedIn](https://www.linkedin.com/in/somoore).
+I'm an AI security engineer in Austin. I build tools that watch what AI agents do with the access they're given. Find me on [LinkedIn](https://www.linkedin.com/in/s0moore/).
 
 ### Working on
 
