@@ -1,7 +1,7 @@
 import json, os, re, urllib.request
 
 USER = "somoore"
-FEATURED = {"sir", "hellbox", "steampipe-plugin-turbopuffer", "powerpipe-turbopuffer-security-benchmark", "terraform-provider-tpuf", "pairputer-on-aws"}
+FEATURED = {"sir", "cmesh", "agentsnitch", "hellbox", "steampipe-plugin-turbopuffer", "powerpipe-turbopuffer-security-benchmark", "terraform-provider-tpuf", "pairputer-on-aws"}
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 def get(url):
